@@ -1,0 +1,16 @@
+[
+  {
+    "expense": "Sample Expense 1",
+    "category": "Food",
+    "amount": 100,
+    "date": "2024-09-16",
+    "time": "10:00 AM"
+  },
+  {
+    "expense": "Sample Expense 2",
+    "category": "Transport",
+    "amount": 50,
+    "date": "2024-09-15",
+    "time": "02:30 PM"
+  }
+]
